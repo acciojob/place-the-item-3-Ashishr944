@@ -2,11 +2,6 @@
 /* Your CSS Code here. */
 .holder {
     display: flex;
-    flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-evenly;
     flex-wrap: wrap;
-}
-
-.item {
-    flex-shrink: 0;
 }
